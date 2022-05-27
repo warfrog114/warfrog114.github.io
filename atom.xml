@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>tanxiao514 ����</title>
+  <title>tanxiao514 博客</title>
   
   
   <link href="http://warfrog114.github.io/atom.xml" rel="self"/>
   
   <link href="http://warfrog114.github.io/"/>
-  <updated>2022-05-26T05:30:07.131Z</updated>
+  <updated>2022-05-26T06:05:22.902Z</updated>
   <id>http://warfrog114.github.io/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://warfrog114.github.io/2022/05/25/hello-world/"/>
-    <id>http://warfrog114.github.io/2022/05/25/hello-world/</id>
-    <published>2022-05-25T12:51:15.565Z</published>
-    <updated>2022-05-26T05:30:07.131Z</updated>
+    <link href="http://warfrog114.github.io/2022/05/26/hello-world/"/>
+    <id>http://warfrog114.github.io/2022/05/26/hello-world/</id>
+    <published>2022-05-26T05:59:01.288Z</published>
+    <updated>2022-05-26T06:05:22.902Z</updated>
     
     
       
@@ -31,6 +31,21 @@
     <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
         
       
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>第一篇文章</title>
+    <link href="http://warfrog114.github.io/2022/05/26/di-yi-pian-wen-zhang/"/>
+    <id>http://warfrog114.github.io/2022/05/26/di-yi-pian-wen-zhang/</id>
+    <published>2022-05-26T05:29:03.000Z</published>
+    <updated>2022-05-27T11:18:31.600Z</updated>
+    
+    
+    <summary type="html">博客文章测试中。。。</summary>
     
     
     
