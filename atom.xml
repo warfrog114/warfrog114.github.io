@@ -6,7 +6,7 @@
   <link href="http://warfrog114.github.io/atom.xml" rel="self"/>
   
   <link href="http://warfrog114.github.io/"/>
-  <updated>2022-05-26T06:05:22.902Z</updated>
+  <updated>2022-05-28T09:24:14.554Z</updated>
   <id>http://warfrog114.github.io/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>参考手册（一）</title>
+    <link href="http://warfrog114.github.io/2022/05/28/can-kao-shou-ce/can-kao-shou-ce/"/>
+    <id>http://warfrog114.github.io/2022/05/28/can-kao-shou-ce/can-kao-shou-ce/</id>
+    <published>2022-05-28T05:50:12.000Z</published>
+    <updated>2022-05-28T09:24:14.554Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;hr&gt;
+&lt;h2 id=&quot;Front-matter&quot;&gt;Front-matter&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Front-matter&lt;/strong&gt; 是 markdown 文件最上方以 — 分隔的区域，用于指定个别档案的变数。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Page</summary>
+        
+      
+    
+    
+    
+    <category term="博客搭建" scheme="http://warfrog114.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+    <category term="文章写法" scheme="http://warfrog114.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/%E6%96%87%E7%AB%A0%E5%86%99%E6%B3%95/"/>
+    
+    
+    <category term="Blog" scheme="http://warfrog114.github.io/tags/Blog/"/>
+    
+    <category term="文章" scheme="http://warfrog114.github.io/tags/%E6%96%87%E7%AB%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -31,21 +64,6 @@
     <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
         
       
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>第一篇文章</title>
-    <link href="http://warfrog114.github.io/2022/05/26/di-yi-pian-wen-zhang/"/>
-    <id>http://warfrog114.github.io/2022/05/26/di-yi-pian-wen-zhang/</id>
-    <published>2022-05-26T05:29:03.000Z</published>
-    <updated>2022-05-27T12:52:25.938Z</updated>
-    
-    
-    <summary type="html">博客文章测试中。。。</summary>
     
     
     
