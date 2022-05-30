@@ -6,7 +6,7 @@
   <link href="http://warfrog114.github.io/atom.xml" rel="self"/>
   
   <link href="http://warfrog114.github.io/"/>
-  <updated>2022-05-28T09:24:14.554Z</updated>
+  <updated>2022-05-29T11:06:16.460Z</updated>
   <id>http://warfrog114.github.io/</id>
   
   <author>
@@ -17,24 +17,70 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Html 参考手册（一）</title>
+    <link href="http://warfrog114.github.io/2022/05/29/qian-duan-xue-xi/qian-duan-xue-xi/"/>
+    <id>http://warfrog114.github.io/2022/05/29/qian-duan-xue-xi/qian-duan-xue-xi/</id>
+    <published>2022-05-29T10:47:48.000Z</published>
+    <updated>2022-05-29T11:06:16.460Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;网站常见规则&quot;&gt;网站常见规则&lt;/h2&gt;
+&lt;p&gt;在我们创建的任何网站项目中，最常见的是一个主页 HTML 文件和包含图像、样式文件和脚本文件的文件夹。&lt;br&gt;
+文件创建格式推荐&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;index.html：</summary>
+        
+      
+    
+    
+    
+    <category term="前端" scheme="http://warfrog114.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="html" scheme="http://warfrog114.github.io/categories/%E5%89%8D%E7%AB%AF/html/"/>
+    
+    
+    <category term="前端" scheme="http://warfrog114.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="html" scheme="http://warfrog114.github.io/tags/html/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>参考手册（二）</title>
+    <link href="http://warfrog114.github.io/2022/05/29/can-kao-shou-ce/can-kao-shou-ce-2/"/>
+    <id>http://warfrog114.github.io/2022/05/29/can-kao-shou-ce/can-kao-shou-ce-2/</id>
+    <published>2022-05-29T04:37:55.000Z</published>
+    <updated>2022-05-29T10:51:24.233Z</updated>
+    
+    
+    <summary type="html">懒狗没有描述</summary>
+    
+    
+    
+    <category term="博客搭建" scheme="http://warfrog114.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+    <category term="文章写法" scheme="http://warfrog114.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/%E6%96%87%E7%AB%A0%E5%86%99%E6%B3%95/"/>
+    
+    
+    <category term="Blog" scheme="http://warfrog114.github.io/tags/Blog/"/>
+    
+    <category term="文章" scheme="http://warfrog114.github.io/tags/%E6%96%87%E7%AB%A0/"/>
+    
+  </entry>
+  
+  <entry>
     <title>参考手册（一）</title>
-    <link href="http://warfrog114.github.io/2022/05/28/can-kao-shou-ce/can-kao-shou-ce/"/>
-    <id>http://warfrog114.github.io/2022/05/28/can-kao-shou-ce/can-kao-shou-ce/</id>
+    <link href="http://warfrog114.github.io/2022/05/28/can-kao-shou-ce/can-kao-shou-ce-1/"/>
+    <id>http://warfrog114.github.io/2022/05/28/can-kao-shou-ce/can-kao-shou-ce-1/</id>
     <published>2022-05-28T05:50:12.000Z</published>
-    <updated>2022-05-28T09:24:14.554Z</updated>
+    <updated>2022-05-29T05:54:36.616Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;hr&gt;
-&lt;h2 id=&quot;Front-matter&quot;&gt;Front-matter&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Front-matter&lt;/strong&gt; 是 markdown 文件最上方以 — 分隔的区域，用于指定个别档案的变数。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Page</summary>
-        
-      
+    <summary type="html">懒狗没有描述</summary>
     
     
     
