@@ -6,7 +6,7 @@
   <link href="http://warfrog114.github.io/atom.xml" rel="self"/>
   
   <link href="http://warfrog114.github.io/"/>
-  <updated>2022-05-29T11:06:16.460Z</updated>
+  <updated>2022-06-28T16:10:17.943Z</updated>
   <id>http://warfrog114.github.io/</id>
   
   <author>
@@ -17,22 +17,47 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>MarkDown参考手册</title>
+    <link href="http://warfrog114.github.io/2022/06/28/markdown-can-kao-shou-ce/"/>
+    <id>http://warfrog114.github.io/2022/06/28/markdown-can-kao-shou-ce/</id>
+    <published>2022-06-28T12:23:53.000Z</published>
+    <updated>2022-06-28T16:10:17.943Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Markdown-标题语法&quot;&gt;&lt;a href=&quot;#Markdown-标题语法&quot; class=&quot;headerlink&quot; title=&quot;Markdown 标题语法&quot;&gt;&lt;/a&gt;Markdown 标题语法&lt;/h1&gt;&lt;p&gt;要创建标题，请在单词或短语前面添加井号</summary>
+        
+      
+    
+    
+    
+    <category term="MarkDown" scheme="http://warfrog114.github.io/categories/MarkDown/"/>
+    
+    <category term="笔记" scheme="http://warfrog114.github.io/categories/MarkDown/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="MarkDown" scheme="http://warfrog114.github.io/tags/MarkDown/"/>
+    
+    <category term="笔记" scheme="http://warfrog114.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Html 参考手册（一）</title>
     <link href="http://warfrog114.github.io/2022/05/29/qian-duan-xue-xi/qian-duan-xue-xi/"/>
     <id>http://warfrog114.github.io/2022/05/29/qian-duan-xue-xi/qian-duan-xue-xi/</id>
     <published>2022-05-29T10:47:48.000Z</published>
-    <updated>2022-05-29T11:06:16.460Z</updated>
+    <updated>2022-06-28T11:58:17.460Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;网站常见规则&quot;&gt;网站常见规则&lt;/h2&gt;
-&lt;p&gt;在我们创建的任何网站项目中，最常见的是一个主页 HTML 文件和包含图像、样式文件和脚本文件的文件夹。&lt;br&gt;
-文件创建格式推荐&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;index.html：</summary>
+    <summary type="html">&lt;h2 id=&quot;网站常见规则&quot;&gt;&lt;a href=&quot;#网站常见规则&quot; class=&quot;headerlink&quot; title=&quot;网站常见规则&quot;&gt;&lt;/a&gt;网站常见规则&lt;/h2&gt;&lt;p&gt;在我们创建的任何网站项目中，最常见的是一个主页 HTML</summary>
         
       
     
@@ -54,7 +79,7 @@
     <link href="http://warfrog114.github.io/2022/05/29/can-kao-shou-ce/can-kao-shou-ce-2/"/>
     <id>http://warfrog114.github.io/2022/05/29/can-kao-shou-ce/can-kao-shou-ce-2/</id>
     <published>2022-05-29T04:37:55.000Z</published>
-    <updated>2022-05-29T10:51:24.233Z</updated>
+    <updated>2022-06-28T16:23:23.430Z</updated>
     
     
     <summary type="html">懒狗没有描述</summary>
@@ -77,7 +102,7 @@
     <link href="http://warfrog114.github.io/2022/05/28/can-kao-shou-ce/can-kao-shou-ce-1/"/>
     <id>http://warfrog114.github.io/2022/05/28/can-kao-shou-ce/can-kao-shou-ce-1/</id>
     <published>2022-05-28T05:50:12.000Z</published>
-    <updated>2022-05-29T05:54:36.616Z</updated>
+    <updated>2022-06-28T16:25:00.726Z</updated>
     
     
     <summary type="html">懒狗没有描述</summary>
@@ -92,27 +117,6 @@
     <category term="Blog" scheme="http://warfrog114.github.io/tags/Blog/"/>
     
     <category term="文章" scheme="http://warfrog114.github.io/tags/%E6%96%87%E7%AB%A0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://warfrog114.github.io/2022/05/26/hello-world/"/>
-    <id>http://warfrog114.github.io/2022/05/26/hello-world/</id>
-    <published>2022-05-26T05:59:01.288Z</published>
-    <updated>2022-05-26T06:05:22.902Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
-    
-    
-    
     
   </entry>
   
